@@ -1,5 +1,5 @@
 {
-  "name": "ShoppingList",
-  "displayName": "ShoppingList",
+  "name": "ToDoList",
+  "displayName": "ToDoList",
   "icon": "./App-icon.jpg"
 }
